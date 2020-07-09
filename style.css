@@ -1,0 +1,182 @@
+.background{
+    background: #F0FFF0;
+    width: 1440px;
+height: 576px;
+margin-bottom: 100px;
+}
+  
+.lorem{
+    margin-left: 40px;
+}
+#icon{
+    width: 198.07px;
+    height: 59px;
+    margin-left: 100px;
+}
+.buy-now-button{
+    color: white;
+    width: 104px;
+    height: 43px;
+    background: #21B573;
+    border-radius: 33px;
+    padding-left: 20px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+    
+}
+.navbar-nav{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+flex: none;
+order: 0;
+align-self: center;
+margin: 10px 0px;
+}
+.font1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+.nav-item{
+    margin-left: 40px;
+}
+
+.banner-image{
+    width: 554px;
+    height: 346px;
+  
+}
+
+#any{
+    color: #21B573;
+}
+.start{
+    margin-top: 50px;
+border: none;
+padding-right: 20px;
+width: 153px;
+height: 43px;
+background: #21B573;
+border-radius: 33px;
+}
+#red{
+    color: red;
+}
+.blog{
+    padding-left: 150px;
+}
+#navbarNav{
+    margin-right: 110px;
+}
+.king{
+    margin-top: 100px;
+}
+.cat-img{
+   align-items: center;
+    width: 80px;
+    height: 83px;
+    margin: 54px 115px 20px 90px;
+}
+.cat2,.cat1,.cat3,.cat4{
+  background-color:#F8FFFB;
+    border-radius: 10px;
+    
+    width: 270px;
+    height: 270px;
+}
+.cat2{
+    box-shadow: 5px 10px 8px 5px  lightgray;
+
+}
+.tip{
+    text-align: center;
+}
+#cat{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px lightgray;
+    border-radius: 11px;
+}
+.card-img-top{
+    width: 331px;
+    height: 234px;
+    margin: 10px 10px 10px 10px;
+}
+.buy{
+border: none;
+padding-right: 15px;
+padding-bottom: 5px;
+margin-top: 20px;
+
+width: 137px;
+height: 35px;
+left: 158px;
+top: 1461px;
+
+background: #21B573;
+border-radius: 33px;
+}
+.logo{
+    width: 18px;
+    height: 20px;
+}
+.footer{
+   padding-top: 20px;
+}
+.man{
+    width: 120px;
+height: 120px;
+margin-left: 200px;
+margin-top: 40px;
+}
+.testy{
+    margin-top: 55px;
+    margin-right: 100px;
+}
+.testimonial{
+    margin-bottom: 100px;
+}
+.black{
+    
+    width: 1440px;
+    height: 576px;
+left: 0px;
+top: 2013px;
+
+background: #282531;8
+}
+.extra{
+    color: white;
+    
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.white{
+    color: white;
+}
+.enigma{
+    list-style:none;
+}
+.last1{
+    padding: 100px 100px;
+}
+.last2{
+    padding-top: 100px;
+}
+.last3{
+    text-align: center;
+    padding-top: 200px;
+}
