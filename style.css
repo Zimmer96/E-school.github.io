@@ -11,6 +11,8 @@ margin-bottom: 100px;
 #icon{
     width: 198.07px;
     height: 59px;
+    margin-right: 95px;
+    -webkit-margin-right: 60px;
     
 }
 .buy-now-button{
@@ -70,7 +72,7 @@ border-radius: 33px;
     color: red;
 }
 .blog{
-    padding-left: 150px;
+    padding-left: 180px;
 }
 #navbarNav{
     margin-right: 110px;
