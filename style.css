@@ -268,4 +268,16 @@ line-height: 30px;
     
     background: #282531;8
     }
+    .extra{
+        color: white;
+        
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    }
+    .white{
+        color: white;
+    }
   }
